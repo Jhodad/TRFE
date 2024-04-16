@@ -1,6 +1,8 @@
 # TalentReef React UI Interview Template
 
-This [Create React App](https://github.com/facebook/create-react-app) project is provided as a starting template for the TalentReef take-home interview. Feel free to make whatever modifications are necessary to complete the exercise.
+This [Create React App](https://github.com/facebook/create-react-app) project has been modified from the original template to fulfill the conditions requested in the challenge's document. The code can be executed in the same manner as the original template
+
+The Back End can be found [here](https://github.com/Jhodad/TRBE)
 
 ## Requirements
 
@@ -75,4 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Additional Information
 
-TalentReef will provide you the contact information of a person who can answer questions about the exercise.
+Template provided by TalentReef, challenge solution provided by Jhodad Gomez.
