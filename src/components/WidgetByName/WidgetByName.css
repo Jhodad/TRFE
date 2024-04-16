@@ -1,0 +1,52 @@
+.widget-ByName-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #c9c6c6;
+  padding: 3vh;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.widget-ByName-form {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.widget-ByName-label {
+  margin-right: 10px;
+}
+
+.widget-ByName-input {
+  flex-grow: 1;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.widget-ByName-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.widget-ByName-result-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.widget-ByName-result-name {
+  margin-bottom: 10px;
+}
+
+.widget-ByName-result-description,
+.widget-ByName-result-price {
+  margin-bottom: 5px;
+}
