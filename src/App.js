@@ -5,7 +5,8 @@ import Stack from '@mui/material/Stack'
 import WidgetList from './components/WidgetList'
 
 const App = () => {
-  return (<Stack>
+  return (
+  <Stack>
     <WidgetList></WidgetList>
   </Stack>)
 }
